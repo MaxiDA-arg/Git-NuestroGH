@@ -1,4 +1,6 @@
-#Git Nuestro
+# Git Nuestro
 
 Git Nuestro que estás en los repos
-Santificado sea tus commits
+Santificados sean tus commits
+Venga a nosotros tus log
+En el local como en el remote
